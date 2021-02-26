@@ -12,7 +12,6 @@ body {
   font-family: "Red Hat Display", sans-serif;
   font-size: 20pt;
   color: #fff;
-  background: url("../img/bg.jpg") top center no-repeat;
   background-size: cover;
   position: relative;
 }
